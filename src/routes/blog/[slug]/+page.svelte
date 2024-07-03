@@ -3,5 +3,5 @@
 	export let data;
 </script>
 
-<h1>{data.post.content}</h1>
+<p class="font-bold text-center">{data.post.content}</p>
 <!-- <div>{@html data.post.content}</div> -->
